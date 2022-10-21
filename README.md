@@ -11,3 +11,5 @@ branch.
 Branch name is Stylelint
 
 2.EsLint - https://eslint.org/ - We set the configuration and the rules depending on the documentation. For Angular, eslint has its own command which helps easily configure all the eslint setup that we need. - ng add @angular-eslint/schematics - If you use the VsCode IDE, set the eslint extension and it will show you problems live. If it doesn't work, restart the IDE.
+
+3.Prettier - https://prettier.io/ - We set the configuration and the rules depending on the documentation. - npm install prettier eslint-plugin-prettier eslint-config-prettier --save-dev - This command, in addition to installing Prettier, also takes care of the installation of two packages that disable some ESLint rules to avoid conflicts with Prettier.
