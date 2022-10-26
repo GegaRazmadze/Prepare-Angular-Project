@@ -25,4 +25,4 @@ branch.
 6. Jest - https://jestjs.io/ - [configuration gide for Angular](https://medium.com/@kyjungok/setup-jest-in-angular-application-22b22609cbcd), Jest is a delightful JavaScript Testing Framework with a focus on simplicity. It's very fast and easy for us.  
    Branch name is Jest
 
-7. Angular Material - for testing
+7. Angular Material
