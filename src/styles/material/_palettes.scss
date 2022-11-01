@@ -16,40 +16,41 @@ $contrast: (
   a400: $color-contrast-dark,
   a700: $color-contrast-dark
 );
-$primary-palette: (
-  50: $blue-50,
-  100: $blue-100,
-  200: $blue-200,
-  300: $blue-300,
-  400: $blue-400,
-  500: $blue-500,
-  600: $blue-600,
-  700: $blue-700,
-  800: $blue-800,
-  900: $blue-900,
-  A100: #f3f9ff,
-  A200: #c0e1ff,
-  A400: #8dcaff,
-  A700: #74beff,
-  contrast: $contrast
-);
-$accent-palette: (
-  50: $accent-blue-50,
-  100: $accent-blue-100,
-  200: $accent-blue-200,
-  300: $accent-blue-300,
-  400: $accent-blue-400,
-  500: $accent-blue-500,
-  600: $accent-blue-600,
-  700: $accent-blue-700,
-  800: $accent-blue-800,
-  900: $accent-blue-900,
-  A100: #82a4ff,
-  A200: #4f7fff,
-  A400: #1c59ff,
-  A700: #0347ff,
-  contrast: $contrast
-);
+
+// $primary-palette: (
+//   50: $blue-50,
+//   100: $blue-100,
+//   200: $blue-200,
+//   300: $blue-300,
+//   400: $blue-400,
+//   500: $blue-500,
+//   600: $blue-600,
+//   700: $blue-700,
+//   800: $blue-800,
+//   900: $blue-900,
+//   A100: #f3f9ff,
+//   A200: #c0e1ff,
+//   A400: #8dcaff,
+//   A700: #74beff,
+//   contrast: $contrast
+// );
+// $accent-palette: (
+//   50: $accent-blue-50,
+//   100: $accent-blue-100,
+//   200: $accent-blue-200,
+//   300: $accent-blue-300,
+//   400: $accent-blue-400,
+//   500: $accent-blue-500,
+//   600: $accent-blue-600,
+//   700: $accent-blue-700,
+//   800: $accent-blue-800,
+//   900: $accent-blue-900,
+//   A100: #82a4ff,
+//   A200: #4f7fff,
+//   A400: #1c59ff,
+//   A700: #0347ff,
+//   contrast: $contrast
+// );
 $danger-palette: (
   50: $red-50,
   100: $red-100,

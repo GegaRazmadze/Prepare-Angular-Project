@@ -45,8 +45,8 @@
 
 @import 'palettes';
 
-$primary: mat.define-palette($primary-palette);
-$accent: mat.define-palette($accent-palette);
+$primary: mat.define-palette(mat.$indigo-palette);
+$accent: mat.define-palette(mat.$pink-palette);
 $warn: mat.define-palette(mat.$red-palette);
 $success: mat.define-palette($success-palette);
 $theme: mat.define-light-theme(
